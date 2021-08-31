@@ -1,0 +1,9 @@
+[
+    { 
+        "keys": ["ctrl+alt+g"], "command": "geeks"
+    },
+    
+    { 
+        "keys": ["ctrl+alt+c"], "command": "codemode"
+    }
+]

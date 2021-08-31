@@ -1,0 +1,17 @@
+[
+{
+    "id" : "Practice",
+    "caption" : "Practice",
+    "children":
+    [
+    {
+    	"caption" : "Fetch questions",
+    	"command" : "geeks", 
+    },
+
+    {	"caption" : "Insert snippet",
+    	"command" : "codemode"
+	}
+	]
+}
+]
